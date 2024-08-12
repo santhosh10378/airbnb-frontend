@@ -1,11 +1,11 @@
 import { ChevronLeftIcon } from "../assets";
 import Button from "../components/elements/Button";
 import PropertyCardFavorite from "../components/property-card/PropertyCardFavorite";
-import PropertyAmenities from "../components/Property-details/PropertyAmenities";
-import PropertyDescription from "../components/Property-details/PropertyDescription";
+import PropertyAmenities from "../components/property-details/PropertyAmenities";
+import PropertyDescription from "../components/property-details/PropertyDescription";
 import PropertyHostInfo from "../components/property-details/PropertyHostInfo";
-import PropertyImagesGrid from "../components/Property-details/PropertyImagesGrid";
-import PropertyInfoText from "../components/Property-details/PropertyInfoText";
+import PropertyImagesGrid from "../components/property-details/PropertyImagesGrid";
+import PropertyInfoText from "../components/property-details/PropertyInfoText";
 import PropertyReservation from "../components/property-details/PropertyReservation";
 import useFetch from "../hooks/useFetch";
 import usePageInfo from "../hooks/usePageInfo";
